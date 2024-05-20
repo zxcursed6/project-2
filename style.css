@@ -1,7 +1,7 @@
 body {
 background-image: url("https://steamuserimages-a.akamaihd.net/ugc/1018319243075970736/037BB848F40DEB3FE2AE00037E2A3F2BA40E9D83/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
 background-position: center;
-background-size: contain;
+background-size: cover;
 }
 body {
    text-align: center;
